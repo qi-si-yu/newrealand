@@ -24,17 +24,20 @@
 }
 #sun {
   margin-top: 20px;
+  height: 539px;
 }
 #toppic{
   display: block;
   margin-top: 20px;
   margin-left: 175px;
-  padding-left: 65px;
+  padding-left: 120px;
   padding-top: 20px;
   padding-bottom: 25px;
 }
 li {
   display: inline;
+  padding: 5px;
+  color: #0093de;
 }
 #ph {
   color: white;
@@ -48,6 +51,7 @@ div ul li {
 }
 .sywz {
   float: left;
+  padding: 20px;
 }
 .sy {
   list-style-type: none;
@@ -62,6 +66,7 @@ div ul li {
 .bottom {
   background-color: black;
   height: 15pc;
+  padding-left: 50px;
 }
 #di {
   font-weight: 100%;
@@ -72,7 +77,58 @@ div ul li {
 a{
   color: #0093de;
 }
-
-
-
-
+.juzhong {
+  text-align: center;
+  font-size: 30px;
+}
+.juzh {
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+.jz {
+  text-align: center;
+  padding: 10px;
+}
+.cycc {
+  color: black;
+}
+.icontnz-car {
+  width: 100px;
+}
+.icontnz-weather {
+  width: 100px;
+}
+.icontnz-accommodation {
+  width: 100px;
+}
+.icontnz-bus {
+  width: 100px;
+}
+.car {
+  color: black;
+}
+.weather {
+  color: black;
+}
+.accommodation {
+  color: black;
+}
+.bus {
+  color: black;
+}
+.icon-list {
+  display: inline;
+}
+.icon-list__item {
+  display: inline;
+}
+.tp {
+  height: 539px;
+}
+#tup {
+  width: 100%;
+}
+.shu {
+  color: black;
+}
