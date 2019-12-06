@@ -65,14 +65,14 @@ div ul li {
 }
 .bottom {
   background-color: black;
-  height: 18pc;
+  height: 23pc;
   padding-left: 50px;
 }
 #di {
   font-weight: 100%;
   color: white;
-  margin-top: 150px;
-  margin-left: 450px;
+  margin-top: 270px;
+  padding-left: 500px;
 }
 a{
   color: #0093de;
