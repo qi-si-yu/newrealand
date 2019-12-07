@@ -1,7 +1,6 @@
 .iconhome {
-  color: #0093de;
+  background-color: #0093de;
   margin-left: 225px;
-  color: white;
   height: 20px;
 }
 .dhlk {
@@ -24,7 +23,7 @@
 }
 #sun {
   margin-top: 20px;
-  height: 539px;
+  width: 100%;
 }
 #toppic{
   display: block;
