@@ -1,3 +1,12 @@
+.top-black1{
+  /* display: inline-block; */
+  width: 465px;
+  height: 170.09px;
+  background-color: black;
+  position: absolute;
+  top: 150px;
+  color: #fff;
+}
 .iconhome {
   padding-left: 300px;
   height: 30px;
@@ -21,7 +30,9 @@
   color: white;
 }
 #top {
-  background-color: black;
+  width: 1887px;
+  height: 768.66px;
+  background-color: #171717;
 }
 #sun {
   margin-top: 20px;
@@ -35,10 +46,52 @@
   padding-top: 20px;
   padding-bottom: 25px;
 }
+#sou {
+  position: absolute;
+  color: #0093de;
+  margin-top: -50px;
+  margin-left: 1024px;
+  font-weight: unset;
+}
+.jiantou {
+  position: absolute;
+  margin-top: -47px;
+  margin-left: 1137px;
+  border: 1px solid #454545;
+}
+#ge {
+  position: absolute;
+  margin-top: -51px;
+  margin-left: 1155px;
+  color: #454545;
+}
+#sousuo {
+  position: absolute;
+  margin-top: -48px;
+  margin-left: 1167px;
+  border: 1px solid #454545;
+  background-color: #171717;
+}
 li {
   display: inline;
   padding: 5px;
   color: #0093de;
+}
+#soushu {
+  position: absolute;
+  margin-top: -51px;
+  margin-left: 1280px;
+  color: #454545;
+}
+.fdj {
+  position: absolute;
+  margin-top: -45px;
+  margin-left: 1291px;
+}
+#kuai {
+  width: 250px;
+  height: 100px;
+  background-color: #454545;
 }
 #ph {
   color: white;
@@ -65,7 +118,7 @@ div ul li {
   color: white;
 }
 .bottom {
-  background-color: black;
+  background-color: #171717;
   height: 23pc;
   padding-left: 50px;
 }
@@ -169,5 +222,13 @@ a{
 }
 #xiaofeiji {
   position: absolute;
-  padding-left: 750px;
+  padding-left: 1300px;
+  margin-top: -700px;
+}
+#feijizi {
+  position: absolute;
+  padding-left: 1340px;
+  margin-top: -695px;
+  background-color: #2d2d2d;
+  back
 }
