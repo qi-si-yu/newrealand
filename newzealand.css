@@ -92,7 +92,7 @@ a{
   padding: 10px;
 }
 .cycc {
-  color: black;
+  color: grey;
 }
 .icontnz-car {
   width: 100px;
@@ -125,7 +125,8 @@ a{
   display: inline;
 }
 .tp {
-  height: 539px;
+  padding-left: 9%;
+  padding-right: 8%;
 }
 #tup {
   width: 100%;
@@ -141,4 +142,32 @@ a{
   width: 300px;
   height: 300px;
   padding: 6px;
+}
+.bazi {
+  position: absolute;
+  padding-left: -250px;
+  margin-left: -295px;
+  margin-top: 265px;
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+}
+.baz {
+  position: absolute;
+  padding-left: -250px;
+  margin-left: -295px;
+  margin-top: 240px;
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+}
+.icon-list {
+  display: inline-block;
+}
+.icon-list__item {
+  display: inline-block;
+}
+#xiaofeiji {
+  position: absolute;
+  padding-left: 750px;
 }
